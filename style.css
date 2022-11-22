@@ -4,6 +4,7 @@ p {
 }
 h1 {
     color: #2A36A3;
+    padding: 12px;
 }
 
 h2 {
@@ -16,4 +17,11 @@ body {
     margin-left: 1cm;
     margin-right: 1cm;
     font-family: Arial, Helvetica, sans-serif;
+}
+#paragrafoinicial{
+    color: #2A36A3;
+}
+
+.imagem1{
+    
 }
