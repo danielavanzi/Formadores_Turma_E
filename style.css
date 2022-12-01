@@ -1,14 +1,21 @@
 p {
-   color: #A38C36;
-   text-align: justify;
-}
-h1 {
+    color: #A38C36;
+    text-align: justify;
+ }
+ ul {
+    color: #A38C36;
+    text-align: justify;
+ }
+ h1 {
     color: #2A36A3;
     padding: 12px;
 }
 
 h2 {
     color: #2A36A3;
+}
+.item{
+    display: inline-block;
 }
 
 body {
@@ -23,5 +30,5 @@ body {
 }
 
 .imagem1{
-    
+    display: inline-block;
 }
